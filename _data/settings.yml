@@ -54,11 +54,6 @@ portfolio-label:
 - {
     title : "Machine Learning",
     type : "ML"
-  }
-- {
-    title : "WEB FE",
-    type : "WEB"
-  }
 
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"

@@ -94,6 +94,7 @@
   img {
     transition: .3s ease;
     transform: scale(1.1);
+    height: 300px;
   }
 
   &:hover {
@@ -188,7 +189,6 @@
 
 /* footer */
 .footer-section {
-  padding-top: 200px;
 }
 
 .section-on-footer {
