@@ -54,6 +54,7 @@ portfolio-label:
 - {
     title : "Machine Learning",
     type : "ML"
+}
 
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
